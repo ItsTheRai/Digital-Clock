@@ -1,0 +1,10 @@
+To run:
+Open the index.html in your favorite browser
+This application works best in Firefox but there is an issue with some configurations where the stopwatch lap times are not displayed. 
+IE works well but it does fail to display the custom font.
+Google Chrome does not allow Worker threads therefore the whole application will not work in a regular configuration.
+Tu bypass start Chrome with the --allow-file-access-from-files console\terminal\command line switch, which will solve the issue.
+
+markup/ contains the custom font used
+media/ contains all custom images used
+
